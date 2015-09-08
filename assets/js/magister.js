@@ -34,7 +34,7 @@ return(!i||i!==r&&!b.contains(r,i))&&(e.type=o.origType,n=o.handler.apply(this,a
     * Set your date here  (YEAR, MONTH (0 for January/11 for December), DAY, HOUR, MINUTE, SECOND)
     * according to the GMT+0 Timezone
     **/
-    var launch = new Date(2016, 06, 18, 11, 00);
+    var launch = new Date(2016, 06, 25, 11, 00);
     /**
     * The script
     **/
